@@ -13,6 +13,7 @@ codegen-units = 16
 
 [dependencies]
 rusty_engine = "5.2.1"
+rand = "0.8.5"
 
 
 
